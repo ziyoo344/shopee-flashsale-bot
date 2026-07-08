@@ -1,0 +1,9 @@
+{
+  "product_keywords": ["iphone", "samsung", "xiaomi"],
+  "variant": null,
+  "address": null,
+  "payment": "ShopeePay",
+  "check_interval": 0.5,
+  "max_attempts": 5,
+  "auto_start": false
+}
